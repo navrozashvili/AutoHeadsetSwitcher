@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoHeadsetSwitcher", "AutoHeadsetSwitcher\AutoHeadsetSwitcher.csproj", "{A6EFE615-12C0-41FF-A08F-696A7463B7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6EFE615-12C0-41FF-A08F-696A7463B7D5}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A6EFE615-12C0-41FF-A08F-696A7463B7D5}.Debug|x64.ActiveCfg = Debug|x64
+		{A6EFE615-12C0-41FF-A08F-696A7463B7D5}.Debug|x64.Build.0 = Debug|x64
+		{A6EFE615-12C0-41FF-A08F-696A7463B7D5}.Release|Any CPU.ActiveCfg = Release|x64
+		{A6EFE615-12C0-41FF-A08F-696A7463B7D5}.Release|x64.ActiveCfg = Release|x64
+		{A6EFE615-12C0-41FF-A08F-696A7463B7D5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E0AD31-AA76-4F4D-BE3C-3900BD2EF7F5}
+	EndGlobalSection
+EndGlobal
